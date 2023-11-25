@@ -130,7 +130,7 @@ const pokepics = { //list of pokemon images
   "Seaking": "seaking.png",
   "Staryu": "staryu.png",
   "Starmie": "starmie.png",
-  "Mr-Mime": "mr-mime.png",
+  "Mr-Mime": "Mr-Mime.png",
   "Scyther": "scyther.png",
   "Jynx": "jynx.png",
   "Electabuzz": "electabuzz.png",
