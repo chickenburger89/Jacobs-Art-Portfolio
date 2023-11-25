@@ -3,22 +3,24 @@ background-color: rgb(112, 169, 161);
 list-style-type: none;
 margin: 0;
 padding: 14px;
+border-radius: 5px;
+
 }
 
 nav li {
   display: inline;
-  font-family: 'Roboto 27px', sans-serif;
+  font-family: 'Press Start 2P', cursive;
+  color: rgb(207, 224, 195);
 }
 
 nav a:link, nav a:visited {
   color: black;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(207, 224, 195);
   border-radius: 3px;
   text-decoration: none;
   padding: 2px, 6px;
   margin: 0;
   font-size: 0.9em;
-  border: 1px solid white;
 }
 
 nav a:hover {
