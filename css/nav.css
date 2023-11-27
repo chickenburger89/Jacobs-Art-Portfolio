@@ -29,6 +29,10 @@ nav a:hover {
 }
 
 nav a.current {
-  background-color: rgb(217, 147, 26);
+  background-color: rgb(158, 193, 163);
   color: white;
+}
+
+.itext {
+  font-size: 1.4em;
 }

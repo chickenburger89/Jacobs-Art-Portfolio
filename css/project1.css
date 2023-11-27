@@ -25,6 +25,7 @@ a {
 
 p {
   font-family: 'Work Sans', sans-serif;
+  color: rgb(61, 34, 15);
 }
 
 figcaption {
@@ -35,21 +36,27 @@ figcaption {
 
 .ptext {
   font-size: 1.3em;
+  color: rgb(61, 34, 15);
 }
 
 .htext {
   font-size: 1.4em;
   font-weight: 400;
+  
+  
 }
 
 .gtext {
   text-align: left;
   margin-left: 70px;
   margin-right: 60px;
+  color: rgb(61, 34, 15);
 }
 
 .stext {
   text-align: center;
+  color: rgb(61, 34, 15);
+
 }
 /* ----------- NAV STYLES ----------- */
 nav {
